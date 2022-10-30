@@ -1,9 +1,9 @@
 {
-  "Product": {
+  
     "name": { "string": {} },
     "isWish": { "boolean": {} },
     "description": {"loremSentences": { "minLength": 100, "maxLength": 200 }},
     "details": {"loremParagraphs": { "minLength": 400, "maxLength": 500 }},
     "image": {"regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"},
-  },
+  
 }
